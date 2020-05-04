@@ -1,1 +1,4 @@
 .DS_Store
+sw.js.map
+workbox-*.js
+workbox-*.js.map
